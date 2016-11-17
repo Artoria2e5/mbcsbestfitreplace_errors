@@ -1,7 +1,7 @@
 mbcserrors
 ==========
 
-Error handlers for Windows MBCS encodings (`cp...`) provided by python.
+Error handlers for Python's Windows MBCS encodings (`cp...`).
 
 - **mbcsbestfit**: Use ["best fit"][bestfitreadme] replacements for encoders.
  - **mbcsbestfitreplace**: Use Windows' replacement behavior.
