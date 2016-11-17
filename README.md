@@ -5,7 +5,7 @@ Error handlers for Python's Windows MBCS encodings (`cp...`).
 
 - **mbcsbestfit**: Use ["best fit"][bestfitreadme] replacements for encoders.
  - **mbcsbestfitreplace**: Use Windows' replacement behavior.
- - **mbcsbestfitreplace**: Ignore unknown characters.
+ - **mbcsbestfitignore**: Ignore unknown characters.
 - **mbcsreplace**: Use Windows' replacement behavior for codecs.
 - `fallback_handler(handler[, h2])`: Creates a handler with fallback.
 
